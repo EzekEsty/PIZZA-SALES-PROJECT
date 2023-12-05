@@ -1,1 +1,3 @@
-# PIZZA-SALES-PROJECT
+The dashboard is the visualization of the sales of pizza. It revealed the total sales by month, total sales by category, total sales of top 5 pizza, total sales by size and average sales by month. The month where sales was recorded highest was January. Also, Thai chicken pizza, vegetable pizza, spinach and feta pizza , spinach phesto pizza and spinach supreme pizza were the top 5 pizzas sold. 
+The high sales in the month of January could be traced to festive season which is the new year celebration.
+Recommendations: The company should make sure that goods do not go out of stock during the season and should invest more on the top 5 pizzas that were sold.
